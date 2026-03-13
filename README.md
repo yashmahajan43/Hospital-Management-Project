@@ -1,1 +1,1 @@
-# Hospital-Management-Project
+# Clinic-Hospital-Management-Project
